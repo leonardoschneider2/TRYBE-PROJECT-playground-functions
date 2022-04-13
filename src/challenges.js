@@ -7,7 +7,7 @@ function compareTrue() {
 function calcArea() {
   // seu código aqui
 }
-
+//picoleo
 // Desafio 3
 function splitSentence() {
   // seu código aqui

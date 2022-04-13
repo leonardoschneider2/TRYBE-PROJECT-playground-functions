@@ -7,7 +7,7 @@ function generatePhoneNumber() {
 function triangleCheck() {
   // seu código aqui
 }
-
+// picoleo
 // Desafio 13
 function hydrate() {
   // seu código aqui
